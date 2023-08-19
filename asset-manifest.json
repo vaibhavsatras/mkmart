@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mkmart/static/css/main.294bfd91.css",
-    "main.js": "/mkmart/static/js/main.0a746ebe.js",
+    "main.js": "/mkmart/static/js/main.1b414b9b.js",
     "index.html": "/mkmart/index.html",
     "main.294bfd91.css.map": "/mkmart/static/css/main.294bfd91.css.map",
-    "main.0a746ebe.js.map": "/mkmart/static/js/main.0a746ebe.js.map"
+    "main.1b414b9b.js.map": "/mkmart/static/js/main.1b414b9b.js.map"
   },
   "entrypoints": [
     "static/css/main.294bfd91.css",
-    "static/js/main.0a746ebe.js"
+    "static/js/main.1b414b9b.js"
   ]
 }
